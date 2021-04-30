@@ -1,0 +1,16 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An application designed for note taking",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Mario Cabrera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
